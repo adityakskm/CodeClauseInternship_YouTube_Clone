@@ -47,3 +47,4 @@ Favicon Generator:
 Purpose: To create a custom favicon for the application.
 Usage: Online favicon generators or image editing tools are used to create a favicon image that represents the application's icon.
 These tools and technologies play essential roles in different aspects of the development process, from building the user interface to fetching data from external APIs, ensuring responsive design, and managing the project's source code and collaboration.
+Credits: adrianhajdin, JavaScript Mastery @javascriptmastery
